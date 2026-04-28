@@ -1,47 +1,12 @@
 [
-  {
-    "file": "01-dashboard.png",
-    "label": "Dashboard",
-    "url": "https://admin-staging.usesayar.com/dashboard"
-  },
-  {
-    "file": "02-onboarding-queue.png",
-    "label": "Onboarding queue",
-    "url": "https://admin-staging.usesayar.com/onboarding-queue"
-  },
-  {
-    "file": "03-merchants-directory.png",
-    "label": "Merchants directory",
-    "url": "https://admin-staging.usesayar.com/merchants"
-  },
-  {
-    "file": "04-needs-attention.png",
-    "label": "Needs attention",
-    "url": "https://admin-staging.usesayar.com/needs-attention"
-  },
-  {
-    "file": "05-flows-templates.png",
-    "label": "Flows & templates",
-    "url": "https://admin-staging.usesayar.com/flows-templates"
-  },
-  {
-    "file": "06-billing.png",
-    "label": "Billing",
-    "url": "https://admin-staging.usesayar.com/billing/features"
-  },
-  {
-    "file": "07-operations.png",
-    "label": "Operations",
-    "url": "https://admin-staging.usesayar.com/operations"
-  },
-  {
-    "file": "08-security.png",
-    "label": "Security",
-    "url": "https://admin-staging.usesayar.com/security"
-  },
-  {
-    "file": "09-merchant-profile.png",
-    "label": "Merchant profile",
-    "url": "https://admin-staging.usesayar.com/merchants"
-  }
+  {"file":"01-dashboard.png","label":"Dashboard","url":"https://admin-staging.usesayar.com/dashboard"},
+  {"file":"02-onboarding-queue.png","label":"Onboarding queue","url":"https://admin-staging.usesayar.com/onboarding-queue"},
+  {"file":"03-merchants-directory.png","label":"Merchants directory","url":"https://admin-staging.usesayar.com/merchants"},
+  {"file":"04-needs-attention.png","label":"Needs attention","url":"https://admin-staging.usesayar.com/needs-attention"},
+  {"file":"05-flows-templates.png","label":"Flows & templates","url":"https://admin-staging.usesayar.com/flows-templates"},
+  {"file":"06-billing.png","label":"Billing","url":"https://admin-staging.usesayar.com/billing/features"},
+  {"file":"07-operations.png","label":"Operations","url":"https://admin-staging.usesayar.com/operations"},
+  {"file":"08-security.png","label":"Security","url":"https://admin-staging.usesayar.com/security"},
+  {"file":"09-merchant-profile.png","label":"Merchant profile","url":"https://admin-staging.usesayar.com/merchants/bbfaceb5-eaa3-493e-8991-7f3569afa118"},
+  {"file":"10-merchant-health.png","label":"Merchant health","url":"https://admin-staging.usesayar.com/merchant-health/bbfaceb5-eaa3-493e-8991-7f3569afa118"}
 ]
