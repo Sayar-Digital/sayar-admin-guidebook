@@ -23,6 +23,17 @@ Messaging is elevated when either condition is true:
 
 - Template issues alone (missing/failed/stale templates are handled in template health/retry flows)
 
+## How To Read Score, Risk, and Age
+
+- `Score`: Priority weight for that merchant row. Higher score means handle sooner.
+- `Risk`: Estimated revenue risk based on recent failed/expired checkout activity and failed WhatsApp events.
+- `Age`: How long since the latest recorded incident on that row.
+
+### Why You May See `Score: 0`, `Risk: ₦0`, `Age: —`
+
+- This usually means the row is a structural blocker (for example WhatsApp setup not ready), not a recent transaction/event failure burst.
+- `Age: —` means no latest incident timestamp is recorded for that row yet.
+
 ## Triage Workflow
 
 1. Open row details
