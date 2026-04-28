@@ -30,3 +30,11 @@ Messaging is elevated when either condition is true:
 3. Execute safe retry/fix
 4. Refresh state
 5. Escalate if still failing
+
+## Where To Click
+
+1. Open `Needs attention` from sidebar.
+2. Start from highest severity rows.
+3. Open merchant profile from row action and resolve blocker.
+
+![Needs attention page](./screenshots/04-needs-attention.png)

@@ -7,3 +7,12 @@
 - **Health score**: A 0-100 risk score derived from fixed penalty conditions.
 - **Readiness check**: Validation checks for provider capability and setup completeness.
 - **Template stale**: Template exists but does not match required current definition.
+
+## Visual Reference
+
+Use these pages as shared visual references during training:
+
+- Dashboard: `01-dashboard.png`
+- Onboarding queue: `02-onboarding-queue.png`
+- Merchant profile: `09-merchant-profile.png`
+- Merchant health: `10-merchant-health.png`

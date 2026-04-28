@@ -28,3 +28,11 @@ Not eligible:
 ## Operational Tip
 
 If retries repeatedly fail, verify merchant credentials and template definition alignment before retrying again.
+
+## Where To Click
+
+1. Open `Flows & templates`.
+2. Review template status and required coverage.
+3. Use merchant profile retry actions when template states are failed/missing/stale.
+
+![Flows and templates](./screenshots/05-flows-templates.png)

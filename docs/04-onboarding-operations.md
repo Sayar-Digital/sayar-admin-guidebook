@@ -31,3 +31,12 @@ Complete merchant onboarding using the same requirement engine used for merchant
 - No missing required requirements
 - Onboarding completion at expected final state
 - Merchant can proceed to activation checks
+
+## Where To Click
+
+1. Open `Onboarding queue`.
+2. Select a merchant with incomplete requirements.
+3. Open merchant profile and run `Complete onboarding` flow in order.
+
+![Onboarding queue list](./screenshots/02-onboarding-queue.png)
+![Merchant profile onboarding context](./screenshots/09-merchant-profile.png)

@@ -25,3 +25,12 @@
 - Confirm merchant WhatsApp credentials
 - Confirm template definition is correct
 - Check last error and retry only after fixing root cause
+
+## Where To Click
+
+1. Use `Operations` for provider/health diagnostics.
+2. Use `Security` for access-control or account safety checks.
+3. Use merchant profile diagnostics for merchant-level incidents.
+
+![Operations diagnostics](./screenshots/07-operations.png)
+![Security page](./screenshots/08-security.png)

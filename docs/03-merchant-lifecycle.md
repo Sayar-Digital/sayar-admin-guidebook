@@ -21,3 +21,12 @@ Onboarding completion and merchant activation are related but not identical:
 - Onboarding: drive completion in required order
 - Pre-active: clear structural blockers
 - Active: monitor health and incidents
+
+## Where To Click
+
+1. Open `Merchants` from sidebar.
+2. Select a merchant row to open profile.
+3. Use profile actions to continue onboarding and health review.
+
+![Merchant directory](./screenshots/03-merchants-directory.png)
+![Merchant profile](./screenshots/09-merchant-profile.png)

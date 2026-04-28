@@ -28,3 +28,11 @@ Treat all merchant actions as production-sensitive operations:
 - Needs attention
 - Flows & templates
 - Billing / Operations
+
+## Where To Click
+
+1. Open `Dashboard` from the left sidebar.
+2. Confirm environment label (`STAGING`) and queue counters.
+3. Use the top search to jump to merchants quickly.
+
+![Dashboard starting view](./screenshots/01-dashboard.png)

@@ -22,3 +22,12 @@
 2. Checkout flow failures spike
 3. Template provisioning failures
 4. WhatsApp messaging elevated incidents
+
+## Where To Click
+
+1. Open `Needs attention` for incident intake.
+2. Open `Operations` for system-level checks.
+3. Open merchant profile/health for merchant-specific resolution.
+
+![Needs attention intake](./screenshots/04-needs-attention.png)
+![Operations view](./screenshots/07-operations.png)

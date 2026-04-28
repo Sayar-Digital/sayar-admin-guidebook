@@ -23,3 +23,12 @@ Use the correct route per environment to avoid false failures.
 - Local: `http://localhost:<api-port>/webhook/payment/paystack`
 - Staging: `https://staging-api.usesayar.com/webhook/payment/paystack`
 - Production: `https://prod-api.usesayar.com/webhook/payment/paystack`
+
+## Where To Click
+
+1. Open `Billing` from sidebar for plan and billing views.
+2. Open `Operations` for provider/runtime operational checks.
+3. Review webhook/readiness/runtime state before changing toggles.
+
+![Billing page](./screenshots/06-billing.png)
+![Operations page](./screenshots/07-operations.png)

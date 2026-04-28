@@ -20,3 +20,12 @@
 - Confirm no unresolved critical incidents
 - Confirm escalations have owner + ETA
 - Log major actions in internal ops notes
+
+## Where To Click
+
+1. Go to `Dashboard` first.
+2. Open `Needs attention` and clear critical items.
+3. Open `Onboarding queue` and process remaining setup tasks.
+
+![Needs attention queue](./screenshots/04-needs-attention.png)
+![Onboarding queue](./screenshots/02-onboarding-queue.png)

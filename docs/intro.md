@@ -26,3 +26,13 @@ This is an operational guide. It avoids deep engineering details and focuses on:
 - What actions are allowed
 - What "good" vs "bad" state means
 - What to do next
+
+## Admin Portal Tour
+
+Start here to confirm the layout and navigation.
+
+1. Sign in at `https://admin-staging.usesayar.com/login`.
+2. Confirm the left navigation sections are visible.
+3. Use Dashboard as your daily starting point.
+
+![Dashboard overview](./screenshots/01-dashboard.png)

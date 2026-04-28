@@ -33,3 +33,11 @@ Open issues combine:
 - expired checkouts
 - failed WhatsApp events
 - plus 1 when WhatsApp connection/verification/subscription is unhealthy
+
+## Where To Click
+
+1. Open merchant profile from `Merchants`.
+2. Click `Health`.
+3. Review blockers, reliability checks, commerce signals, and activity.
+
+![Merchant health page](./screenshots/10-merchant-health.png)

@@ -21,3 +21,11 @@ Admin actions can materially affect merchant operations. Every sensitive action 
 - Never perform silent changes
 - Always include a reason for corrective actions
 - Prefer idempotent operations and verify post-write state
+
+## Where To Click
+
+1. Open `Security` for admin-level control surfaces.
+2. Validate who performed actions and why.
+3. Ensure manual interventions include clear reason + follow-up state check.
+
+![Security controls](./screenshots/08-security.png)
